@@ -5,10 +5,12 @@ body {
     font-family: Arial sans-serif;
     color: #8e6155;
     font-size: 20px;
+
+    background-color: #fff;
 }
 
 .container {
-    margin: 0;
+    margin: -225px 0 0 50px;
     padding: 0;
 
     width: 600px;
@@ -17,8 +19,6 @@ body {
     position: absolute;
     top: 50%;
     left: 0;
-    margin-top: -225px;
-    margin-left: 50px;
 
     background-color: #c6edd7;
     border: 3px solid #b6d8cf;
